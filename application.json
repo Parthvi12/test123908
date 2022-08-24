@@ -13,5 +13,6 @@
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
+  "defaultPermissionGroup": "6303edf084daf727dddb001e",
   "deleted": false
 }
