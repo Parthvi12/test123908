@@ -14,6 +14,7 @@
   "unreadCommentThreads": 0,
   "color": "#C2DAF0",
   "icon": "earth",
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
